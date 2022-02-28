@@ -1,0 +1,26 @@
+id: P4516A5A5
+initial_creation_type: input
+source_metadata:
+  title: Nyingma Series
+  language: bo
+  description: 'Texts related to the Nyingma School of Ancient Translations (snga
+    ''gyur rnying ma), the oldest tradition within Tibetan Buddhism:'
+  volume:
+    f2672d77bd02486fb1f5a988d4cc3315:
+      title: 'The Jewelled Garland: An Aspiration for the Spread of the Teachings
+        of the Omniscient Father and Son, Masters of the Teachings of the Ancient
+        Translations'
+      parent: Aspiration Prayers
+    1ab2e11a60584ef1904c1f65d31672d7:
+      title: 'Words to Delight the Sovereigns of the Dharma: A Prayer of Aspiration
+        for the Flourishing and Spread of the Ancient Translation Tradition'
+      parent: Aspiration Prayers
+    346a168fe50943508a2dd4770db4df23:
+      title: 'A Stream of Blessing: Verses of Supplication to the Accomplished Holders
+        of Mantra who Gained Realization in this Snowy Land of Tibet'
+      parent: Lineage Prayers
+    c3bc8677cd6d483981c17059ac31fda8:
+      title: A Brief Presentation of the Nine Vehicles
+      parent: Philosophy
+created_at: '2022-03-01T04:53:23.335455'
+last_modified_at: '2022-03-01T04:53:23.335458'
